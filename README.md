@@ -2,6 +2,7 @@
 ## 1. ipython
 ### 1-1. [ipython-help, cell, basic command](./ipython_test_01.ipynb)
 ### 1-2. [ipython-magic command](./ipython_test_02.ipynb)
+### 1-3. [ipython-debugging](./ipython_test_03.ipynb)
 ## 2. numpy2
 ## 3. pandas
 ## 4. matplotlib
