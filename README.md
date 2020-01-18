@@ -6,6 +6,7 @@
 ## 2. numpy2
 ### 2-1. [numpy-basic](./numpy_01.ipynb)
 ### 2-2. [numpy-universal-func](./numpy_02.ipynb)
+### 2-3. [numpy-fancy-indexing](./numpy_03.ipynb)
 ## 3. pandas
 ## 4. matplotlib
 ## 5. machine learning
