@@ -7,6 +7,7 @@
 ### 2-1. [numpy-basic](./numpy_01.ipynb)
 ### 2-2. [numpy-universal-func](./numpy_02.ipynb)
 ### 2-3. [numpy-fancy-indexing](./numpy_03.ipynb)
+### 2-4. [numpy-sorting](./numpy_04.ipyynb)
 ## 3. pandas
 ### 3-1. [pandas-basic](./pandas_01.ipynb)
 ## 4. matplotlib
