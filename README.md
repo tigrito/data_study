@@ -12,6 +12,7 @@
 ### 3-1. [pandas-basic](./pandas_01.ipynb)
 ## 4. matplotlib
 ## 5. machine learning
+## 6. deep learning
 
 
 
