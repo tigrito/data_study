@@ -10,7 +10,7 @@
 ### 2-4. [numpy-sorting](./numpy_04.ipyynb)
 ## 3. pandas
 ### 3-1. [pandas-basic](./pandas_01.ipynb)
-### 3-2. [pandas-multiindexing](./pandas_02.ipynb)
+### 3-2. [pandas-multi-indexing](./pandas_02.ipynb)
 ## 4. matplotlib
 ## 5. machine learning
 ## 6. deep learning
