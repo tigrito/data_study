@@ -14,6 +14,7 @@
 ## 4. matplotlib
 ## 5. machine learning
 ## 6. deep learning
+### 6-1. mathematics for deep learning
 
 
 
